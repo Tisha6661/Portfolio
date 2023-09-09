@@ -1,7 +1,7 @@
 import React from 'react'
 import style from './style.module.css'
 import { HashLink  } from 'react-router-hash-link';
-import img from "./Personal site-rafiki.png"
+// import img from "./Personal site-rafiki.png"
 import { data } from '../../data';
 import stack from "./image-removebg-preview.png"
 function LetTry() {
@@ -30,7 +30,7 @@ function LetTry() {
         </div>
 
         <div className={style.part2}>
-            <img src={img} alt={data.name}/>
+            <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/98682478/266792125-12388cf7-0cd7-4d02-a171-b93863063ad0.png" alt={data.name}/>
         </div>
     </div>
   )

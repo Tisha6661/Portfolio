@@ -3,7 +3,7 @@ import styles from "./StyleTime.module.css"
 import Options from './Options';
 
 const Timeline = () => {
-  const about = "As a web developer, I have expertise in designing and building modern, responsive websites using HTML, CSS, and JavaScript. I am experienced in creating interactive user interfaces, optimizing website performance, and ensuring cross-browser compatibility. With a keen eye for detail and a passion for creating visually appealing and functional websites, I strive to deliver high-quality web solutions that meet the needs of clients and users alike."
+  const about = "A dedicated data analyst with a passion for harnessing the power of OpenCV and machine learning to unlock insights from complex datasets. Committed to driving data-driven decision-making with a strong analytical skillset."
   return (
     <div  className={styles.main}>
       <div className={styles.heading}>

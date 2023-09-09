@@ -4,7 +4,7 @@ export const data={
     profilepic:"https://github.com/Tisha6661/Tisha6661/assets/98682478/12388cf7-0cd7-4d02-a171-b93863063ad0",
     githublink:"https://github.com/Tisha6661",
     workField:"Data Analyst",
-    cvlink:"https://drive.google.com/file/d/1UufdHNmvwSdqSZ7w9fO0ZLTQsGOOMg1m/view?usp=sharing",
+    cvlink:"https://docs.google.com/document/d/18p4jawVhNUIdoSHf35h8dZ1B5KDO6FQSSAxp_p5d_G0/edit",
     linkedinLink:"https://www.linkedin.com/in/tisha-garg-4b207322a/",
     onelineyou:"Aspiring Data Analyst and Machine Learner, passionate about creating, engaging and interactive experiences with data using OpenCV and Artificial Intelligence.",
     projects:[{
