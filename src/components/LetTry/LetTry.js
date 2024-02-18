@@ -3,7 +3,7 @@ import style from './style.module.css'
 import { HashLink  } from 'react-router-hash-link';
 // import img from "./Personal site-rafiki.png"
 import { data } from '../../data';
-import stack from "./image-removebg-preview.png"
+import stack from "./tools.png"
 function LetTry() {
     
   return (

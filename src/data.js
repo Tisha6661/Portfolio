@@ -25,17 +25,21 @@ export const data={
     }],
     skills:[{
         title:"Programming Languages",
-        desc:"HTML , CSS , Python , C , C++ "
+        desc:"Python, C, C++, HTML, CSS, JavaScript"
     },{
         title:"Frameworks/Tools/Library",
-        desc:"SQL, Machine Learning, Deep Learning, Computer Vision, Relational Database ,GitHub , Git, MS Word, MS EXcel, Canva"
+        desc:"SQL, Machine Learning, Deep Learning, Computer Vision, Relational Database, Power BI ,GitHub , Git, MS Word, MS EXcel, Canva"
     },{
         title:"Coursework",
-        desc:"Data Structures , Algorithms, Operating System, Object Oriented Programming"
+        desc:"Data Structures , Algorithms, Operating System, Object Oriented Programming, Computer Networks"
     }],
     experience:[{
         "title":"Solving for India Hackathon",
         "desc":"Leaded a team of 4 people in geeksforgeeks hackathon Solving for India "
+    },
+    {
+        "title":"GirlScript Summer of Code 2023",
+        "desc":"Acquired Rank 41 and made more than 300+ contributions on github"
     }],
     education:[{
         "title":"JC Bose University , YMCA , Faridabad, Haryana",
